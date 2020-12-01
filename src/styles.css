@@ -1,0 +1,22 @@
+.App {
+  font-family: cursive;
+  text-align: center;
+}
+body {
+  background-image: linear-gradient(to right, #c56183, #794c74);
+}
+
+h1 {
+  color: #070d59;
+  letter-spacing: 10px;
+  font-size: 50px;
+}
+
+a {
+  background-color: #1f3c88;
+  padding: 20px;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 24px;
+  color: white;
+}
